@@ -1,1 +1,6 @@
-# Warehouse_Forecast
+## Warehouse_Forecast
+### Problem Statement:
+ XYZ company is the manufacturer of electrical fans (ceiling fans, table fans) and has pan-India presence. The company sales to the final consumers through thousands of dealers spread across all major towns in India. The company has 4 regional warehouses which cater to 4 different regions (North, East, South, West) in India. The dealers place order to the region-specific warehouse, which is fulfilled by the inventory available at the point of receiving the order. The warehouse manager must forecast demand from dealers one month in advance. The company in recent times has been facing serious challenges in terms of high inventory and low fill rate across all warehouses. The company has identified poor forecasting accuracy as the primary challenge for poor inventory management. The company wants to improve forecast accuracy by introducing advanced Time Series forecasting methods as well ML algorithms. The company also wants to enhance forecast accuracy by incorporating external data with the internal sales data.
+  
+### Assignment:
+ Monthly Sales data by SKU by warehouse is available between April 2018 and May 2021. The task is to predict sales by SKU by Warehouse for the month of June 2021
